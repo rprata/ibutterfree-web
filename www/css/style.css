@@ -5,6 +5,11 @@
  * Thanks for MaterializeCSS.com
  */
 
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
 .default_color{background-color: #BA55D3 !important}
 
 .default_color_text{color: #BA55D3 !important}
